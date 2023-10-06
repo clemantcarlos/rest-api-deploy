@@ -24,7 +24,7 @@ Content-Type: application/json
 }
 
 ### Cambiar una pelicula por ID
-PATCH http://localhost:3000/movies/dcdd0fad-a94c-4810-8acc-5f108d3b18c3
+PATCH http://localhost:3000/movies/00d36023
 Content-Type: application/json
 
 {
